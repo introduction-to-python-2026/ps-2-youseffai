@@ -13,7 +13,7 @@ def find_max_number(num1, num2, num3):
 def find_mean(num1, num2, num3):
     total=num1+num2+num3
     n=3
-    mean=total/3
+    mean=total/n
     return mean
 
 def find_mean_std(num1, num2, num3):
